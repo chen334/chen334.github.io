@@ -1,0 +1,6 @@
+<div class="gallery">
+    <div class="fj-gallery  data" data-rowHeight="220" data-limit="10">
+    <span class="gallery-data">[{"url":"https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg","alt":""}]</span>
+    </div>
+    <button class="gallery-load-more"><span>Load More</span><i class="fa-solid fa-arrow-down"></i></button>
+    </div>
